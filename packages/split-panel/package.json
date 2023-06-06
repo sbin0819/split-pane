@@ -24,5 +24,8 @@
       "import": "./dist/split-panel.es.js",
       "require": "./dist/split-panel.umd.js"
     }
+  },
+  "dependencies": {
+    "split.js": "^1.6.5"
   }
 }
